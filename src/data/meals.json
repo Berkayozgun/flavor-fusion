@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "title": "Pepperoni Pizza",
+    "price": 9.99,
+    "about": "Classic pizza with pepperoni slices and mozzarella cheese.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Pizza"
+  },
+  {
+    "id": 2,
+    "title": "Margherita Pizza",
+    "price": 8.99,
+    "about": "Classic pizza with fresh tomatoes, mozzarella cheese, and basil.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Pizza"
+  },
+  {
+    "id": 3,
+    "title": "Caesar Salad",
+    "price": 6.99,
+    "about": "Crisp romaine lettuce with Caesar dressing, croutons, and Parmesan cheese.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Salad"
+  },
+  {
+    "id": 4,
+    "title": "Spaghetti Carbonara",
+    "price": 12.99,
+    "about": "Spaghetti with creamy sauce, pancetta, and Parmesan cheese.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Pasta"
+  },
+  {
+    "id": 5,
+    "title": "Grilled Salmon",
+    "price": 15.99,
+    "about": "Grilled salmon fillet with lemon butter sauce and a side of vegetables.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 6,
+    "title": "Chocolate Cake",
+    "price": 5.99,
+    "about": "Rich and moist chocolate cake with a creamy chocolate frosting.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Dessert"
+  },
+  {
+    "id": 7,
+    "title": "Tiramisu",
+    "price": 7.99,
+    "about": "Classic Italian dessert made with coffee-soaked ladyfingers and mascarpone cream.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Dessert"
+  },
+  {
+    "id": 8,
+    "title": "Margarita Cocktail",
+    "price": 8.99,
+    "about": "Classic cocktail made with tequila, lime juice, and triple sec.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Drinks"
+  },
+  {
+    "id": 9,
+    "title": "Mojito",
+    "price": 7.99,
+    "about": "Refreshing cocktail made with rum, lime juice, mint, and soda water.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Drinks"
+  },
+  {
+    "id": 10,
+    "title": "Iced Tea",
+    "price": 2.99,
+    "about": "Refreshing iced tea made with black tea, sugar, and lemon.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Drinks"
+  },
+  {
+    "id": 11,
+    "title": "Cheeseburger",
+    "price": 10.99,
+    "about": "Classic cheeseburger with lettuce, tomato, cheese, and pickles.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Burgers"
+  },
+  {
+    "id": 12,
+    "title": "Veggie Burger",
+    "price": 9.99,
+    "about": "Vegetarian burger made with a patty of black beans, corn, and bell peppers.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Burgers"
+  },
+  {
+    "id": 13,
+    "title": "Chicken Alfredo",
+    "price": 13.99,
+    "about": "Fettuccine pasta with creamy Alfredo sauce and grilled chicken.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Pasta"
+  },
+  {
+    "id": 14,
+    "title": "Greek Salad",
+    "price": 7.99,
+    "about": "Salad with cucumbers, tomatoes, olives, feta cheese, and Greek dressing.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Salad"
+  },
+  {
+    "id": 15,
+    "title": "BBQ Ribs",
+    "price": 16.99,
+    "about": "Tender pork ribs with BBQ sauce and a side of coleslaw.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 16,
+    "title": "Fish Tacos",
+    "price": 11.99,
+    "about": "Grilled fish tacos with cabbage slaw and lime crema.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 17,
+    "title": "French Fries",
+    "price": 3.99,
+    "about": "Crispy golden French fries with a side of ketchup.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Sides"
+  },
+  {
+    "id": 18,
+    "title": "Onion Rings",
+    "price": 4.99,
+    "about": "Crispy fried onion rings with a side of ranch dressing.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Sides"
+  },
+  {
+    "id": 19,
+    "title": "Buffalo Wings",
+    "price": 9.99,
+    "about": "Spicy buffalo wings with celery sticks and blue cheese dressing.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 20,
+    "title": "Garlic Bread",
+    "price": 3.99,
+    "about": "Toasted garlic bread with butter and herbs.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Sides"
+  },
+  {
+    "id": 21,
+    "title": "Pancakes",
+    "price": 7.99,
+    "about": "Fluffy pancakes served with maple syrup and butter.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Breakfast"
+  },
+  {
+    "id": 22,
+    "title": "Waffles",
+    "price": 8.99,
+    "about": "Crispy waffles served with whipped cream and fresh berries.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Breakfast"
+  },
+  {
+    "id": 23,
+    "title": "Eggs Benedict",
+    "price": 10.99,
+    "about": "Poached eggs on English muffins with hollandaise sauce and ham.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Breakfast"
+  },
+  {
+    "id": 24,
+    "title": "Avocado Toast",
+    "price": 6.99,
+    "about": "Toasted bread topped with mashed avocado, cherry tomatoes, and feta cheese.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Breakfast"
+  },
+  {
+    "id": 25,
+    "title": "Chicken Tenders",
+    "price": 8.99,
+    "about": "Crispy chicken tenders served with honey mustard sauce.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 26,
+    "title": "Spring Rolls",
+    "price": 5.99,
+    "about": "Vegetable spring rolls served with sweet chili sauce.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 27,
+    "title": "Clam Chowder",
+    "price": 7.99,
+    "about": "Creamy clam chowder with potatoes and bacon.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Soups"
+  },
+  {
+    "id": 28,
+    "title": "Tomato Soup",
+    "price": 4.99,
+    "about": "Classic tomato soup served with a side of croutons.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Soups"
+  },
+  {
+    "id": 29,
+    "title": "Beef Tacos",
+    "price": 9.99,
+    "about": "Soft tacos filled with seasoned beef, lettuce, cheese, and salsa.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 30,
+    "title": "Shrimp Scampi",
+    "price": 14.99,
+    "about": "Shrimp sautéed in garlic butter sauce served over linguine.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Pasta"
+  },
+  {
+    "id": 31,
+    "title": "Apple Pie",
+    "price": 5.99,
+    "about": "Classic apple pie with a flaky crust and cinnamon-spiced filling.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Dessert"
+  },
+  {
+    "id": 32,
+    "title": "Cheesecake",
+    "price": 6.99,
+    "about": "Creamy cheesecake with a graham cracker crust and strawberry topping.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Dessert"
+  },
+  {
+    "id": 33,
+    "title": "Chicken Caesar Wrap",
+    "price": 8.99,
+    "about": "Grilled chicken, romaine lettuce, Caesar dressing, and Parmesan cheese wrapped in a tortilla.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Wraps"
+  },
+  {
+    "id": 34,
+    "title": "Beef Burrito",
+    "price": 9.99,
+    "about": "Flour tortilla filled with seasoned beef, rice, beans, and cheese.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Wraps"
+  },
+  {
+    "id": 35,
+    "title": "Vegetable Stir Fry",
+    "price": 10.99,
+    "about": "Mixed vegetables stir-fried with soy sauce and served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 36,
+    "title": "Chicken Noodle Soup",
+    "price": 6.99,
+    "about": "Classic chicken noodle soup with carrots, celery, and egg noodles.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Soups"
+  },
+  {
+    "id": 37,
+    "title": "Beef Stew",
+    "price": 12.99,
+    "about": "Hearty beef stew with potatoes, carrots, and peas.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Soups"
+  },
+  {
+    "id": 38,
+    "title": "Lobster Bisque",
+    "price": 14.99,
+    "about": "Creamy lobster bisque with a hint of sherry.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Soups"
+  },
+  {
+    "id": 39,
+    "title": "Chicken Quesadilla",
+    "price": 8.99,
+    "about": "Grilled tortilla filled with chicken, cheese, and peppers.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 40,
+    "title": "Beef Nachos",
+    "price": 9.99,
+    "about": "Tortilla chips topped with seasoned beef, cheese, jalapenos, and sour cream.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 41,
+    "title": "Stuffed Mushrooms",
+    "price": 7.99,
+    "about": "Mushrooms stuffed with a mixture of cheese, garlic, and herbs.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 42,
+    "title": "Caprese Salad",
+    "price": 8.99,
+    "about": "Fresh tomatoes, mozzarella cheese, and basil drizzled with balsamic glaze.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Salad"
+  },
+  {
+    "id": 43,
+    "title": "BLT Sandwich",
+    "price": 7.99,
+    "about": "Bacon, lettuce, and tomato sandwich with mayonnaise on toasted bread.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Sandwiches"
+  },
+  {
+    "id": 44,
+    "title": "Club Sandwich",
+    "price": 9.99,
+    "about": "Triple-decker sandwich with turkey, bacon, lettuce, tomato, and mayonnaise.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Sandwiches"
+  },
+  {
+    "id": 45,
+    "title": "Philly Cheesesteak",
+    "price": 10.99,
+    "about": "Thinly sliced beef with melted cheese, onions, and peppers on a hoagie roll.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Sandwiches"
+  },
+  {
+    "id": 46,
+    "title": "Grilled Cheese Sandwich",
+    "price": 5.99,
+    "about": "Classic grilled cheese sandwich with melted cheddar cheese.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Sandwiches"
+  },
+  {
+    "id": 47,
+    "title": "Turkey Burger",
+    "price": 9.99,
+    "about": "Juicy turkey burger with lettuce, tomato, and avocado.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Burgers"
+  },
+  {
+    "id": 48,
+    "title": "Pulled Pork Sandwich",
+    "price": 8.99,
+    "about": "Slow-cooked pulled pork with BBQ sauce on a brioche bun.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Sandwiches"
+  },
+  {
+    "id": 49,
+    "title": "Fish and Chips",
+    "price": 12.99,
+    "about": "Crispy battered fish served with French fries and tartar sauce.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 50,
+    "title": "Chicken Parmesan",
+    "price": 13.99,
+    "about": "Breaded chicken breast topped with marinara sauce and melted mozzarella cheese.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 51,
+    "title": "Eggplant Parmesan",
+    "price": 11.99,
+    "about": "Breaded eggplant slices topped with marinara sauce and melted mozzarella cheese.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 52,
+    "title": "Lamb Chops",
+    "price": 18.99,
+    "about": "Grilled lamb chops served with mint sauce and a side of vegetables.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 53,
+    "title": "Beef Stroganoff",
+    "price": 14.99,
+    "about": "Tender beef in a creamy mushroom sauce served over egg noodles.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 54,
+    "title": "Chicken Fried Rice",
+    "price": 9.99,
+    "about": "Stir-fried rice with chicken, vegetables, and soy sauce.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 55,
+    "title": "Vegetable Curry",
+    "price": 10.99,
+    "about": "Mixed vegetables in a spicy curry sauce served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 56,
+    "title": "Chicken Tikka Masala",
+    "price": 13.99,
+    "about": "Chicken in a creamy tomato sauce served with rice and naan bread.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 57,
+    "title": "Beef Wellington",
+    "price": 24.99,
+    "about": "Beef tenderloin wrapped in puff pastry with mushroom duxelles.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 58,
+    "title": "Shrimp Tacos",
+    "price": 12.99,
+    "about": "Soft tacos filled with grilled shrimp, cabbage slaw, and lime crema.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 59,
+    "title": "Chicken Enchiladas",
+    "price": 11.99,
+    "about": "Corn tortillas filled with chicken and topped with enchilada sauce and cheese.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 60,
+    "title": "Beef Fajitas",
+    "price": 14.99,
+    "about": "Sizzling beef fajitas with peppers, onions, and tortillas.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 61,
+    "title": "Chicken Fajitas",
+    "price": 13.99,
+    "about": "Sizzling chicken fajitas with peppers, onions, and tortillas.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 62,
+    "title": "Vegetable Fajitas",
+    "price": 12.99,
+    "about": "Sizzling vegetable fajitas with peppers, onions, and tortillas.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 63,
+    "title": "Chicken Shawarma",
+    "price": 11.99,
+    "about": "Marinated chicken served with pita bread, hummus, and salad.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 64,
+    "title": "Falafel Wrap",
+    "price": 8.99,
+    "about": "Falafel balls wrapped in a tortilla with lettuce, tomato, and tahini sauce.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Wraps"
+  },
+  {
+    "id": 65,
+    "title": "Gyro",
+    "price": 9.99,
+    "about": "Grilled meat wrapped in pita bread with lettuce, tomato, and tzatziki sauce.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Wraps"
+  },
+  {
+    "id": 66,
+    "title": "Beef Kebab",
+    "price": 12.99,
+    "about": "Grilled beef kebabs served with rice and salad.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 67,
+    "title": "Chicken Kebab",
+    "price": 11.99,
+    "about": "Grilled chicken kebabs served with rice and salad.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 68,
+    "title": "Lamb Kebab",
+    "price": 13.99,
+    "about": "Grilled lamb kebabs served with rice and salad.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 69,
+    "title": "Vegetable Kebab",
+    "price": 10.99,
+    "about": "Grilled vegetable kebabs served with rice and salad.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 70,
+    "title": "Chicken Souvlaki",
+    "price": 11.99,
+    "about": "Grilled chicken skewers served with pita bread, tzatziki sauce, and salad.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 71,
+    "title": "Beef Souvlaki",
+    "price": 12.99,
+    "about": "Grilled beef skewers served with pita bread, tzatziki sauce, and salad.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 72,
+    "title": "Lamb Souvlaki",
+    "price": 13.99,
+    "about": "Grilled lamb skewers served with pita bread, tzatziki sauce, and salad.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 73,
+    "title": "Vegetable Souvlaki",
+    "price": 10.99,
+    "about": "Grilled vegetable skewers served with pita bread, tzatziki sauce, and salad.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 74,
+    "title": "Chicken Gyro",
+    "price": 9.99,
+    "about": "Grilled chicken wrapped in pita bread with lettuce, tomato, and tzatziki sauce.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Wraps"
+  },
+  {
+    "id": 75,
+    "title": "Beef Gyro",
+    "price": 10.99,
+    "about": "Grilled beef wrapped in pita bread with lettuce, tomato, and tzatziki sauce.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Wraps"
+  },
+  {
+    "id": 76,
+    "title": "Lamb Gyro",
+    "price": 11.99,
+    "about": "Grilled lamb wrapped in pita bread with lettuce, tomato, and tzatziki sauce.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Wraps"
+  },
+  {
+    "id": 77,
+    "title": "Vegetable Gyro",
+    "price": 8.99,
+    "about": "Grilled vegetables wrapped in pita bread with lettuce, tomato, and tzatziki sauce.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Wraps"
+  },
+  {
+    "id": 78,
+    "title": "Chicken Shawarma Wrap",
+    "price": 10.99,
+    "about": "Marinated chicken wrapped in a tortilla with lettuce, tomato, and tahini sauce.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Wraps"
+  },
+  {
+    "id": 79,
+    "title": "Beef Shawarma Wrap",
+    "price": 11.99,
+    "about": "Marinated beef wrapped in a tortilla with lettuce, tomato, and tahini sauce.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Wraps"
+  },
+  {
+    "id": 80,
+    "title": "Lamb Shawarma Wrap",
+    "price": 12.99,
+    "about": "Marinated lamb wrapped in a tortilla with lettuce, tomato, and tahini sauce.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Wraps"
+  },
+  {
+    "id": 81,
+    "title": "Vegetable Shawarma Wrap",
+    "price": 9.99,
+    "about": "Grilled vegetables wrapped in a tortilla with lettuce, tomato, and tahini sauce.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Wraps"
+  },
+  {
+    "id": 82,
+    "title": "Chicken Burrito",
+    "price": 9.99,
+    "about": "Flour tortilla filled with seasoned chicken, rice, beans, and cheese.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Wraps"
+  },
+  {
+    "id": 83,
+    "title": "Vegetable Burrito",
+    "price": 8.99,
+    "about": "Flour tortilla filled with seasoned vegetables, rice, beans, and cheese.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Wraps"
+  },
+  {
+    "id": 84,
+    "title": "Chicken Tostada",
+    "price": 7.99,
+    "about": "Crispy tortilla topped with seasoned chicken, lettuce, cheese, and salsa.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 85,
+    "title": "Beef Tostada",
+    "price": 8.99,
+    "about": "Crispy tortilla topped with seasoned beef, lettuce, cheese, and salsa.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 86,
+    "title": "Vegetable Tostada",
+    "price": 6.99,
+    "about": "Crispy tortilla topped with seasoned vegetables, lettuce, cheese, and salsa.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 87,
+    "title": "Chicken Nachos",
+    "price": 9.99,
+    "about": "Tortilla chips topped with seasoned chicken, cheese, jalapenos, and sour cream.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 88,
+    "title": "Vegetable Nachos",
+    "price": 8.99,
+    "about": "Tortilla chips topped with seasoned vegetables, cheese, jalapenos, and sour cream.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 89,
+    "title": "Chicken Quesadilla",
+    "price": 8.99,
+    "about": "Grilled tortilla filled with chicken, cheese, and peppers.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 90,
+    "title": "Beef Quesadilla",
+    "price": 9.99,
+    "about": "Grilled tortilla filled with beef, cheese, and peppers.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 91,
+    "title": "Vegetable Quesadilla",
+    "price": 7.99,
+    "about": "Grilled tortilla filled with vegetables, cheese, and peppers.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 92,
+    "title": "Chicken Empanadas",
+    "price": 6.99,
+    "about": "Pastry filled with seasoned chicken and vegetables.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 93,
+    "title": "Beef Empanadas",
+    "price": 7.99,
+    "about": "Pastry filled with seasoned beef and vegetables.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 94,
+    "title": "Vegetable Empanadas",
+    "price": 5.99,
+    "about": "Pastry filled with seasoned vegetables.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 95,
+    "title": "Chicken Taquitos",
+    "price": 6.99,
+    "about": "Crispy rolled tortillas filled with seasoned chicken.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 96,
+    "title": "Beef Taquitos",
+    "price": 7.99,
+    "about": "Crispy rolled tortillas filled with seasoned beef.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 97,
+    "title": "Vegetable Taquitos",
+    "price": 5.99,
+    "about": "Crispy rolled tortillas filled with seasoned vegetables.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 98,
+    "title": "Chicken Samosas",
+    "price": 6.99,
+    "about": "Pastry filled with seasoned chicken and peas.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 99,
+    "title": "Beef Samosas",
+    "price": 7.99,
+    "about": "Pastry filled with seasoned beef and peas.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 100,
+    "title": "Vegetable Samosas",
+    "price": 5.99,
+    "about": "Pastry filled with seasoned vegetables and peas.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 101,
+    "title": "Chicken Pakoras",
+    "price": 6.99,
+    "about": "Fried chicken fritters with Indian spices.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 102,
+    "title": "Vegetable Pakoras",
+    "price": 5.99,
+    "about": "Fried vegetable fritters with Indian spices.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Appetizers"
+  },
+  {
+    "id": 103,
+    "title": "Chicken Biryani",
+    "price": 12.99,
+    "about": "Spiced rice with chicken and vegetables.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 104,
+    "title": "Beef Biryani",
+    "price": 13.99,
+    "about": "Spiced rice with beef and vegetables.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 105,
+    "title": "Vegetable Biryani",
+    "price": 10.99,
+    "about": "Spiced rice with mixed vegetables.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 106,
+    "title": "Chicken Korma",
+    "price": 13.99,
+    "about": "Chicken in a creamy coconut sauce served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 107,
+    "title": "Beef Korma",
+    "price": 14.99,
+    "about": "Beef in a creamy coconut sauce served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 108,
+    "title": "Vegetable Korma",
+    "price": 11.99,
+    "about": "Mixed vegetables in a creamy coconut sauce served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 109,
+    "title": "Chicken Vindaloo",
+    "price": 13.99,
+    "about": "Spicy chicken curry served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 110,
+    "title": "Beef Vindaloo",
+    "price": 14.99,
+    "about": "Spicy beef curry served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 111,
+    "title": "Vegetable Vindaloo",
+    "price": 11.99,
+    "about": "Spicy vegetable curry served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 112,
+    "title": "Chicken Tandoori",
+    "price": 12.99,
+    "about": "Grilled chicken marinated in yogurt and spices.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 113,
+    "title": "Beef Tandoori",
+    "price": 13.99,
+    "about": "Grilled beef marinated in yogurt and spices.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 114,
+    "title": "Vegetable Tandoori",
+    "price": 10.99,
+    "about": "Grilled vegetables marinated in yogurt and spices.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 115,
+    "title": "Chicken Curry",
+    "price": 12.99,
+    "about": "Chicken in a spicy curry sauce served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 116,
+    "title": "Beef Curry",
+    "price": 13.99,
+    "about": "Beef in a spicy curry sauce served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 117,
+    "title": "Vegetable Curry",
+    "price": 10.99,
+    "about": "Mixed vegetables in a spicy curry sauce served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 118,
+    "title": "Chicken Masala",
+    "price": 13.99,
+    "about": "Chicken in a rich tomato sauce served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 119,
+    "title": "Beef Masala",
+    "price": 14.99,
+    "about": "Beef in a rich tomato sauce served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 120,
+    "title": "Vegetable Masala",
+    "price": 11.99,
+    "about": "Mixed vegetables in a rich tomato sauce served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 121,
+    "title": "Chicken Jalfrezi",
+    "price": 13.99,
+    "about": "Chicken stir-fried with peppers and onions in a spicy sauce.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 122,
+    "title": "Beef Jalfrezi",
+    "price": 14.99,
+    "about": "Beef stir-fried with peppers and onions in a spicy sauce.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 123,
+    "title": "Vegetable Jalfrezi",
+    "price": 11.99,
+    "about": "Mixed vegetables stir-fried with peppers and onions in a spicy sauce.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 124,
+    "title": "Chicken Biryani",
+    "price": 12.99,
+    "about": "Spiced rice with chicken and vegetables.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 125,
+    "title": "Beef Biryani",
+    "price": 13.99,
+    "about": "Spiced rice with beef and vegetables.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 126,
+    "title": "Vegetable Biryani",
+    "price": 10.99,
+    "about": "Spiced rice with mixed vegetables.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 127,
+    "title": "Chicken Korma",
+    "price": 13.99,
+    "about": "Chicken in a creamy coconut sauce served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 128,
+    "title": "Beef Korma",
+    "price": 14.99,
+    "about": "Beef in a creamy coconut sauce served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 129,
+    "title": "Vegetable Korma",
+    "price": 11.99,
+    "about": "Mixed vegetables in a creamy coconut sauce served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 130,
+    "title": "Chicken Vindaloo",
+    "price": 13.99,
+    "about": "Spicy chicken curry served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 131,
+    "title": "Beef Vindaloo",
+    "price": 14.99,
+    "about": "Spicy beef curry served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 132,
+    "title": "Vegetable Vindaloo",
+    "price": 11.99,
+    "about": "Spicy vegetable curry served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 133,
+    "title": "Chicken Tandoori",
+    "price": 12.99,
+    "about": "Grilled chicken marinated in yogurt and spices.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 134,
+    "title": "Beef Tandoori",
+    "price": 13.99,
+    "about": "Grilled beef marinated in yogurt and spices.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 135,
+    "title": "Vegetable Tandoori",
+    "price": 10.99,
+    "about": "Grilled vegetables marinated in yogurt and spices.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 136,
+    "title": "Chicken Curry",
+    "price": 12.99,
+    "about": "Chicken in a spicy curry sauce served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 137,
+    "title": "Beef Curry",
+    "price": 13.99,
+    "about": "Beef in a spicy curry sauce served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 138,
+    "title": "Vegetable Curry",
+    "price": 10.99,
+    "about": "Mixed vegetables in a spicy curry sauce served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 139,
+    "title": "Chicken Masala",
+    "price": 13.99,
+    "about": "Chicken in a rich tomato sauce served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 140,
+    "title": "Beef Masala",
+    "price": 14.99,
+    "about": "Beef in a rich tomato sauce served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 141,
+    "title": "Vegetable Masala",
+    "price": 11.99,
+    "about": "Mixed vegetables in a rich tomato sauce served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 142,
+    "title": "Chicken Jalfrezi",
+    "price": 13.99,
+    "about": "Chicken stir-fried with peppers and onions in a spicy sauce.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 143,
+    "title": "Beef Jalfrezi",
+    "price": 14.99,
+    "about": "Beef stir-fried with peppers and onions in a spicy sauce.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 144,
+    "title": "Vegetable Jalfrezi",
+    "price": 11.99,
+    "about": "Mixed vegetables stir-fried with peppers and onions in a spicy sauce.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 145,
+    "title": "Chicken Biryani",
+    "price": 12.99,
+    "about": "Spiced rice with chicken and vegetables.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 146,
+    "title": "Beef Biryani",
+    "price": 13.99,
+    "about": "Spiced rice with beef and vegetables.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 147,
+    "title": "Vegetable Biryani",
+    "price": 10.99,
+    "about": "Spiced rice with mixed vegetables.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 148,
+    "title": "Chicken Korma",
+    "price": 13.99,
+    "about": "Chicken in a creamy coconut sauce served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 149,
+    "title": "Beef Korma",
+    "price": 14.99,
+    "about": "Beef in a creamy coconut sauce served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  },
+  {
+    "id": 150,
+    "title": "Vegetable Korma",
+    "price": 11.99,
+    "about": "Mixed vegetables in a creamy coconut sauce served with rice.",
+    "image": "https://www.svgrepo.com/show/264355/meal-easter.svg",
+    "category": "Main Course"
+  }
+]
